@@ -1,1 +1,1 @@
-# foto_loca_total
+# foto_local_total
