@@ -1,0 +1,1 @@
+# foto_loca_total
